@@ -1,0 +1,175 @@
+SQL Assignment Submission
+
+=== 1
+create view NumberOfMedals as
+select c.name as country_name, count(r.medal) as num_of_medals
+from countries as c
+join players as p on c.country_id=p.country_id
+join results as r on r.player_id=p.player_id
+group by country_name order by num_of_medals desc;
+**************** RESULT ***************************************************************
+               country_name               | num_of_medals 
+------------------------------------------+---------------
+ United States                            |           171
+ Australia                                |            76
+ Russia                                   |            45
+ Germany                                  |            30
+ Jamaica                                  |            29
+ Netherlands                              |            27
+ Japan                                    |            21
+ Italy                                    |            16
+ Ethiopia                                 |            15
+ United Kingdom                           |            15
+ Cuba                                     |            14
+ Kenya                                    |            14
+ Romania                                  |            13
+ Ukraine                                  |            13
+ Nigeria                                  |            13
+ South Africa                             |            13
+ France                                   |            12
+ Sweden                                   |            11
+ Greece                                   |             9
+ Poland                                   |             9
+ Brazil                                   |             9
+ Belarus                                  |             8
+ China                                    |             8
+ Morocco                                  |             7
+ The Bahamas                              |             7
+ Spain                                    |             4
+ Algeria                                  |             4
+ Hungary                                  |             4
+ Czech Republic                           |             4
+ Trinidad and Tobago                      |             3
+ Zimbabwe                                 |             3
+ Denmark                                  |             3
+ Lithuania                                |             3
+ Portugal                                 |             3
+ Austria                                  |             3
+ Mexico                                   |             3
+ Norway                                   |             3
+ Kazakhstan                               |             2
+ Estonia                                  |             2
+ Latvia                                   |             2
+ Slovakia                                 |             2
+ Costa Rica                               |             2
+ Ireland                                  |             1
+ Saudi Arabia                             |             1
+ Cameroon                                 |             1
+ Dominican Republic                       |             1
+ Turkey                                   |             1
+ Eritrea                                  |             1
+ Mozambique                               |             1
+ Bulgaria                                 |             1
+ Finland                                  |             1
+ Sri Lanka                                |             1
+ Canada                                   |             1
+ Slovenia                                 |             1
+ Argentina                                |             1
+ Barbados                                 |             1
+ Croatia                                  |             1
+ Iceland                                  |             1
+(58 rows)
+
+=============================================================================================
+
+=== 2(a)
+select R.*, S.d from
+R join S on (R.c = S.c) or (R.c is null and S.c is null);
+**************** RESULT ***************************************************************
+     a      | b  | c  |     d      
+------------+----+----+------------
+ a3         | 30 | 30 | d1        
+ a4         |  0 |    | d2        
+(2 rows)
+=============================================================================================
+
+=== 2(b)
+select R.*, S.d 
+from R join S on (R.c = S.c) or (R.c is null and S.c is null) 
+union (select R.*, S.d 
+from R full join S on R.c = S.c where r.c is null and s.c is null);
+**************** RESULT ***************************************************************
+     a      | b  | c  |     d      
+------------+----+----+------------
+ a3         | 30 | 30 | d1        
+            |    |    | d2        
+ a4         |  0 |    | 
+ a4         |  0 |    | d2        
+(4 rows)
+=============================================================================================
+
+=== 3
+create or replace function update_team_medals()
+returns trigger as $update_team_medals$
+declare
+event_type int;
+co_id text;
+begin
+select is_team_event into event_type 
+from events where events.event_id = new.event_id;
+select country_id into co_id 
+from players where players.player_id=new.player_id;  
+if event_type = 1 then
+insert into teammedals values(co_id, new.event_id, new.medal, new.result);
+end if;
+return new;
+end;
+$update_team_medals$ language plpgsql;
+
+create trigger update_team_medals 
+after insert on results for each row 
+execute procedure update_team_medals();
+
+
+**************** RESULT ***************************************************************
+insert into results values('E99','EGBELAAR01','GOLD',7);
+INSERT 0 1
+
+ event_id | player_id  |  medal  | result  
+----------+------------+---------+---------
+ E24      | GREENMAU01 | GOLD    |    9.87
+ E24      | BOLDOATO01 | SILVER  |    9.99
+...
+...
+...
+ E95      | DALLMPET01 | BRONZE  |  477.35
+ E95      | BUSCHANT01 | BRONZE  |  477.35
+ E99      | EGBELAAR01 | GOLD    |       7
+(672 rows)
+
+=============================================================================================
+
+=== 4
+select xmlelement(name medal, event, player)
+from (select xmlelement(name event, trim(e.name)) as event,
+xmlelement(name players, xmlagg(xmlelement(name player,trim(p.name)))) as player
+from events e
+join results r on e.event_id=r.event_id
+join players p on p.player_id=r.player_id
+where e.olympic_id='ATH2004' and p.country_id='USA' and r.medal='GOLD' group by e.name) as medalers;
+
+**************** RESULT ***************************************************************
+xmlelement                                                                                                                                         
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ <medal><event>100m Butterfly Men</event><players><player>Michael Phelps</player></players></medal>
+ <medal><event>200m Men</event><players><player>Shawn Crawford</player></players></medal>
+ <medal><event>400m Individual Medley Men</event><players><player>Michael Phelps</player></players></medal>
+ <medal><event>100m Men</event><players><player>Justin Gatlin</player></players></medal>
+ <medal><event>200m Individual Medley Men</event><players><player>Michael Phelps</player></players></medal>
+ <medal><event>100m Backstroke Women</event><players><player>Natalie Coughlin</player></players></medal>
+ <medal><event>4x200m Freestyle Relay Men</event><players><player>Peter Vanderkaay</player><player>Michael Phelps</player><player>Ryan Lochte</player><player>Klete Keller</player><player>Scott Goldblatt</player></players></medal>
+ <medal><event>Long Jump Men</event><players><player>Dwight Phillips</player></players></medal>
+ <medal><event>100m Hurdles Women</event><players><player>Joanna Hayes</player></players></medal>
+ <medal><event>4x400m Relay Women</event><players><player>Deedee Trotter</player><player>Sanya Richards</player><player>Monique Henderson</player><player>Monique Hennagan</player></players></medal>
+ <medal><event>400m Men</event><players><player>Jeremy Wariner</player></players></medal>
+ <medal><event>200m Breaststroke Women</event><players><player>Amanda Beard</player></players></medal>
+ <medal><event>4x200m Freestyle Relay Women</event><players><player>Dana Vollmer</player><player>Kaitlin Sandeno</player><player>Carly Piper</player><player>Lindsay Benko</player><player>Natalie Coughlin</player></players></medal>
+ <medal><event>200m Backstroke Men</event><players><player>Aaron Peirsol</player></players></medal>
+ <medal><event>4x100m Medley Relay Men</event><players><player>Neil Walker</player><player>Aaron Peirsol</player><player>Michael Phelps</player><player>Jason Lezak</player><player>Brendan Hansen</player><player>Lenny Krayzelburg</player><player>Ian Crocker</player></players></medal>
+ <medal><event>4x400m Relay Men</event><players><player>Jeremy Wariner</player><player>Darold Williamson</player><player>Otis Harris Jr</player><player>Derrick Brew</player></players></medal>
+ <medal><event>50m Freestyle Men</event><players><player>Gary Hall Jr.</player></players></medal>
+ <medal><event>100m Backstroke Men</event><players><player>Aaron Peirsol</player></players></medal>
+ <medal><event>Pole Vault Men</event><players><player>Timothy Mack</player></players></medal>
+ <medal><event>200m Butterfly Men</event><players><player>Michael Phelps</player></players></medal>
+=============================================================================================
+
