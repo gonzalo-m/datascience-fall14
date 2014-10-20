@@ -1,0 +1,233 @@
+data,extract4,extract3,extract2,extract1,extract
+Charles Kassir,0101,(Total: 45, Open: 4, Waitlist: 0),4:00pm - 4:50pm,CSI  2117,CMSC100
+M ,0101,(Total: 45, Open: 0, Waitlist: 5),4:00pm - 4:50pm,CSI  2117,CMSC100
+Jianwu Wang,0101,(Total: 45, Open: 0, Waitlist: 5),9:30am - 10:45am,CSI  2117,CMSC106
+TuTh ,0101,(Total: 31, Open: 0, Waitlist: 0),9:30am - 10:45am,CSI  2117,CMSC106
+Evan Golub ,0101,(Total: 31, Open: 0, Waitlist: 0),2:00pm - 2:50pm,CSI  1115,CMSC131
+MWF ,0101,(Total: 31, Open: 0, Waitlist: 0),2:00pm - 2:50pm,CSI  1115,CMSC131
+Evan Golub ,0102,(Total: 31, Open: 0, Waitlist: 0),2:00pm - 2:50pm,CSI  1115,CMSC131
+MWF ,0102,(Total: 31, Open: 1, Waitlist: 0),2:00pm - 2:50pm,CSI  1115,CMSC131
+Evan Golub ,0103,(Total: 31, Open: 1, Waitlist: 0),2:00pm - 2:50pm,CSI  1115,CMSC131
+MWF ,0103,(Total: 31, Open: 1, Waitlist: 0),2:00pm - 2:50pm,CSI  1115,CMSC131
+Evan Golub ,0104,(Total: 31, Open: 1, Waitlist: 0),2:00pm - 2:50pm,CSI  1115,CMSC131
+MWF ,0104,(Total: 31, Open: 1, Waitlist: 0),2:00pm - 2:50pm,CSI  1115,CMSC131
+Evan Golub ,0201,(Total: 31, Open: 1, Waitlist: 0),3:00pm - 3:50pm,CSI  1115,CMSC131
+MWF ,0201,(Total: 31, Open: 1, Waitlist: 0),3:00pm - 3:50pm,CSI  1115,CMSC131
+Evan Golub ,0202,(Total: 31, Open: 1, Waitlist: 0),3:00pm - 3:50pm,CSI  1115,CMSC131
+MWF ,0202,(Total: 31, Open: 0, Waitlist: 0),3:00pm - 3:50pm,CSI  1115,CMSC131
+Evan Golub ,0203,(Total: 31, Open: 0, Waitlist: 0),3:00pm - 3:50pm,CSI  1115,CMSC131
+MWF ,0203,(Total: 31, Open: 0, Waitlist: 1),3:00pm - 3:50pm,CSI  1115,CMSC131
+Evan Golub ,0204,(Total: 31, Open: 0, Waitlist: 1),3:00pm - 3:50pm,CSI  1115,CMSC131
+MWF ,0204,(Total: 31, Open: 0, Waitlist: 0),3:00pm - 3:50pm,CSI  1115,CMSC131
+Thomas Reinhardt,0301,(Total: 31, Open: 0, Waitlist: 0),11:00am - 11:50am,CSI  1115,CMSC131
+MWF ,0301,(Total: 31, Open: 0, Waitlist: 0),11:00am - 11:50am,CSI  1115,CMSC131
+Thomas Reinhardt,0302,(Total: 31, Open: 0, Waitlist: 0),11:00am - 11:50am,CSI  1115,CMSC131
+MWF ,0302,(Total: 31, Open: 0, Waitlist: 0),11:00am - 11:50am,CSI  1115,CMSC131
+Thomas Reinhardt,0303,(Total: 31, Open: 0, Waitlist: 0),11:00am - 11:50am,CSI  1115,CMSC131
+MWF ,0303,(Total: 31, Open: 0, Waitlist: 0),11:00am - 11:50am,CSI  1115,CMSC131
+Thomas Reinhardt,0304,(Total: 31, Open: 0, Waitlist: 0),11:00am - 11:50am,CSI  1115,CMSC131
+MWF ,0304,(Total: 31, Open: 0, Waitlist: 0),11:00am - 11:50am,CSI  1115,CMSC131
+Thomas Reinhardt,0401,(Total: 31, Open: 0, Waitlist: 0),12:00pm - 12:50pm,CSI  1115,CMSC131
+MWF ,0401,(Total: 31, Open: 7, Waitlist: 0),12:00pm - 12:50pm,CSI  1115,CMSC131
+Thomas Reinhardt,0402,(Total: 31, Open: 7, Waitlist: 0),12:00pm - 12:50pm,CSI  1115,CMSC131
+MWF ,0402,(Total: 31, Open: 0, Waitlist: 0),12:00pm - 12:50pm,CSI  1115,CMSC131
+Thomas Reinhardt,0403,(Total: 31, Open: 0, Waitlist: 0),12:00pm - 12:50pm,CSI  1115,CMSC131
+MWF ,0403,(Total: 31, Open: 7, Waitlist: 0),12:00pm - 12:50pm,CSI  1115,CMSC131
+Thomas Reinhardt,0404,(Total: 31, Open: 7, Waitlist: 0),12:00pm - 12:50pm,CSI  1115,CMSC131
+MWF ,0404,(Total: 34, Open: 0, Waitlist: 2),12:00pm - 12:50pm,CSI  1115,CMSC131
+Laurence Herman ,0101,(Total: 34, Open: 0, Waitlist: 2),10:00am - 10:50am,CSI  1115,CMSC132
+MWF ,0101,(Total: 34, Open: 0, Waitlist: 0),10:00am - 10:50am,CSI  1115,CMSC132
+Laurence Herman ,0102,(Total: 34, Open: 0, Waitlist: 0),10:00am - 10:50am,CSI  1115,CMSC132
+MWF ,0102,(Total: 34, Open: 0, Waitlist: 0),10:00am - 10:50am,CSI  1115,CMSC132
+Laurence Herman ,0103,(Total: 34, Open: 0, Waitlist: 0),10:00am - 10:50am,CSI  1115,CMSC132
+MWF ,0103,(Total: 34, Open: 0, Waitlist: 2),10:00am - 10:50am,CSI  1115,CMSC132
+Laurence Herman ,0104,(Total: 34, Open: 0, Waitlist: 2),10:00am - 10:50am,CSI  1115,CMSC132
+MWF ,0104,(Total: 34, Open: 6, Waitlist: 0),10:00am - 10:50am,CSI  1115,CMSC132
+Laurence Herman ,0201,(Total: 34, Open: 6, Waitlist: 0),1:00pm - 1:50pm,CSI  1115,CMSC132
+MWF ,0201,(Total: 34, Open: 1, Waitlist: 0),1:00pm - 1:50pm,CSI  1115,CMSC132
+Laurence Herman ,0202,(Total: 34, Open: 1, Waitlist: 0),1:00pm - 1:50pm,CSI  1115,CMSC132
+MWF ,0202,(Total: 34, Open: 0, Waitlist: 0),1:00pm - 1:50pm,CSI  1115,CMSC132
+Laurence Herman ,0203,(Total: 34, Open: 0, Waitlist: 0),1:00pm - 1:50pm,CSI  1115,CMSC132
+MWF ,0203,(Total: 34, Open: 0, Waitlist: 0),1:00pm - 1:50pm,CSI  1115,CMSC132
+Laurence Herman ,0204,(Total: 34, Open: 0, Waitlist: 0),1:00pm - 1:50pm,CSI  1115,CMSC132
+MWF ,0204,(Total: 30, Open: 3, Waitlist: 0),1:00pm - 1:50pm,CSI  1115,CMSC132
+Laurence Herman ,0301,(Total: 30, Open: 3, Waitlist: 0),2:00pm - 2:50pm,CSI  2117,CMSC132
+MWF ,0301,(Total: 29, Open: 0, Waitlist: 1),2:00pm - 2:50pm,CSI  2117,CMSC132
+Laurence Herman ,0302,(Total: 29, Open: 0, Waitlist: 1),2:00pm - 2:50pm,CSI  2117,CMSC132
+MWF ,0302,(Total: 29, Open: 8, Waitlist: 0),2:00pm - 2:50pm,CSI  2117,CMSC132
+Laurence Herman ,0303,(Total: 29, Open: 8, Waitlist: 0),2:00pm - 2:50pm,CSI  2117,CMSC132
+MWF ,0303,(Total: 28, Open: 2, Waitlist: 0),2:00pm - 2:50pm,CSI  2117,CMSC132
+Nelson Padua-Perez ,0101,(Total: 28, Open: 2, Waitlist: 0),9:30am - 10:45am,CSI  1115,CMSC216
+TuTh ,0101,(Total: 28, Open: 0, Waitlist: 0),9:30am - 10:45am,CSI  1115,CMSC216
+Nelson Padua-Perez ,0102,(Total: 28, Open: 0, Waitlist: 0),9:30am - 10:45am,CSI  1115,CMSC216
+TuTh ,0102,(Total: 28, Open: 0, Waitlist: 1),9:30am - 10:45am,CSI  1115,CMSC216
+Nelson Padua-Perez ,0103,(Total: 28, Open: 0, Waitlist: 1),9:30am - 10:45am,CSI  1115,CMSC216
+TuTh ,0103,(Total: 28, Open: 0, Waitlist: 0),9:30am - 10:45am,CSI  1115,CMSC216
+Nelson Padua-Perez ,0104,(Total: 28, Open: 0, Waitlist: 0),9:30am - 10:45am,CSI  1115,CMSC216
+TuTh ,0104,(Total: 28, Open: 0, Waitlist: 0),9:30am - 10:45am,CSI  1115,CMSC216
+Nelson Padua-Perez ,0201,(Total: 28, Open: 0, Waitlist: 0),11:00am - 12:15pm,CSI  1115,CMSC216
+TuTh ,0201,(Total: 28, Open: 0, Waitlist: 1),11:00am - 12:15pm,CSI  1115,CMSC216
+Nelson Padua-Perez ,0202,(Total: 28, Open: 0, Waitlist: 1),11:00am - 12:15pm,CSI  1115,CMSC216
+TuTh ,0202,(Total: 28, Open: 0, Waitlist: 1),11:00am - 12:15pm,CSI  1115,CMSC216
+Nelson Padua-Perez ,0203,(Total: 28, Open: 0, Waitlist: 1),11:00am - 12:15pm,CSI  1115,CMSC216
+TuTh ,0203,(Total: 28, Open: 0, Waitlist: 0),11:00am - 12:15pm,CSI  1115,CMSC216
+Nelson Padua-Perez ,0204,(Total: 28, Open: 0, Waitlist: 0),11:00am - 12:15pm,CSI  1115,CMSC216
+TuTh ,0204,(Total: 28, Open: 0, Waitlist: 0),11:00am - 12:15pm,CSI  1115,CMSC216
+Nelson Padua-Perez ,0301,(Total: 28, Open: 0, Waitlist: 0),2:00pm - 3:15pm,CSI  1115,CMSC216
+TuTh ,0301,(Total: 28, Open: 2, Waitlist: 0),2:00pm - 3:15pm,CSI  1115,CMSC216
+Nelson Padua-Perez ,0302,(Total: 28, Open: 2, Waitlist: 0),2:00pm - 3:15pm,CSI  1115,CMSC216
+TuTh ,0302,(Total: 28, Open: 0, Waitlist: 0),2:00pm - 3:15pm,CSI  1115,CMSC216
+Nelson Padua-Perez ,0303,(Total: 28, Open: 0, Waitlist: 0),2:00pm - 3:15pm,CSI  1115,CMSC216
+TuTh ,0303,(Total: 28, Open: 0, Waitlist: 0),2:00pm - 3:15pm,CSI  1115,CMSC216
+Nelson Padua-Perez ,0304,(Total: 28, Open: 0, Waitlist: 0),2:00pm - 3:15pm,CSI  1115,CMSC216
+TuTh ,0304,(Total: 29, Open: 0, Waitlist: 4),2:00pm - 3:15pm,CSI  1115,CMSC216
+Clyde Kruskal ,0101,(Total: 29, Open: 0, Waitlist: 4),2:00pm - 3:15pm,CSI  2117,CMSC250
+TuTh ,0101,(Total: 29, Open: 0, Waitlist: 5),2:00pm - 3:15pm,CSI  2117,CMSC250
+Clyde Kruskal ,0102,(Total: 29, Open: 0, Waitlist: 5),2:00pm - 3:15pm,CSI  2117,CMSC250
+TuTh ,0102,(Total: 29, Open: 0, Waitlist: 3),2:00pm - 3:15pm,CSI  2117,CMSC250
+Clyde Kruskal ,0103,(Total: 29, Open: 0, Waitlist: 3),2:00pm - 3:15pm,CSI  2117,CMSC250
+TuTh ,0103,(Total: 29, Open: 0, Waitlist: 5),2:00pm - 3:15pm,CSI  2117,CMSC250
+Clyde Kruskal ,0201,(Total: 29, Open: 0, Waitlist: 5),3:30pm - 4:45pm,CSI  1115,CMSC250
+TuTh ,0201,(Total: 29, Open: 0, Waitlist: 3),3:30pm - 4:45pm,CSI  1115,CMSC250
+Clyde Kruskal ,0202,(Total: 29, Open: 0, Waitlist: 3),3:30pm - 4:45pm,CSI  1115,CMSC250
+TuTh ,0202,(Total: 29, Open: 0, Waitlist: 3),3:30pm - 4:45pm,CSI  1115,CMSC250
+Clyde Kruskal ,0203,(Total: 29, Open: 0, Waitlist: 3),3:30pm - 4:45pm,CSI  1115,CMSC250
+TuTh ,0203,(Total: 29, Open: 14, Waitlist: 0),3:30pm - 4:45pm,CSI  1115,CMSC250
+Clyde Kruskal ,0204,(Total: 29, Open: 14, Waitlist: 0),3:30pm - 4:45pm,CSI  1115,CMSC250
+TuTh ,0204,(Total: 29, Open: 0, Waitlist: 1),3:30pm - 4:45pm,CSI  1115,CMSC250
+Thomas Reinhardt,0301,(Total: 29, Open: 0, Waitlist: 1),11:00am - 12:15pm,CSI  3117,CMSC250
+TuTh ,0301,(Total: 29, Open: 1, Waitlist: 0),11:00am - 12:15pm,CSI  3117,CMSC250
+Thomas Reinhardt,0302,(Total: 29, Open: 1, Waitlist: 0),11:00am - 12:15pm,CSI  3117,CMSC250
+TuTh ,0302,(Total: 29, Open: 0, Waitlist: 5),11:00am - 12:15pm,CSI  3117,CMSC250
+Thomas Reinhardt,0303,(Total: 29, Open: 0, Waitlist: 5),11:00am - 12:15pm,CSI  3117,CMSC250
+TuTh ,0303,(Total: 25, Open: 0, Waitlist: 0),11:00am - 12:15pm,CSI  3117,CMSC250
+Thomas Goldstein,0101,(Total: 25, Open: 0, Waitlist: 0),12:30pm - 1:45pm,CSI  3118,CMSC250
+TuTh ,0101,(Total: 60, Open: 0, Waitlist: 36),12:30pm - 1:45pm,CSI  3118,CMSC250
+James Reggia ,0101,(Total: 60, Open: 0, Waitlist: 36),11:00am - 12:15pm,CSI  2117,CMSC289
+TuTh ,0101,(Total: 27, Open: 0, Waitlist: 0),11:00am - 12:15pm,CSI  2117,CMSC289
+Chau-Wen Tseng ,0101,(Total: 27, Open: 0, Waitlist: 0),3:30pm - 4:45pm,CSI  3117,CMSC330
+TuTh ,0101,(Total: 27, Open: 0, Waitlist: 0),3:30pm - 4:45pm,CSI  3117,CMSC330
+Chau-Wen Tseng ,0102,(Total: 27, Open: 0, Waitlist: 0),3:30pm - 4:45pm,CSI  3117,CMSC330
+TuTh ,0102,(Total: 27, Open: 1, Waitlist: 0),3:30pm - 4:45pm,CSI  3117,CMSC330
+Chau-Wen Tseng ,0103,(Total: 27, Open: 1, Waitlist: 0),3:30pm - 4:45pm,CSI  3117,CMSC330
+TuTh ,0103,(Total: 27, Open: 0, Waitlist: 0),3:30pm - 4:45pm,CSI  3117,CMSC330
+Chau-Wen Tseng ,0201,(Total: 27, Open: 0, Waitlist: 0),12:30pm - 1:45pm,CSI  3117,CMSC330
+TuTh ,0201,(Total: 27, Open: 0, Waitlist: 1),12:30pm - 1:45pm,CSI  3117,CMSC330
+Chau-Wen Tseng ,0202,(Total: 27, Open: 0, Waitlist: 1),12:30pm - 1:45pm,CSI  3117,CMSC330
+TuTh ,0202,(Total: 27, Open: 13, Waitlist: 0),12:30pm - 1:45pm,CSI  3117,CMSC330
+Chau-Wen Tseng ,0203,(Total: 27, Open: 13, Waitlist: 0),12:30pm - 1:45pm,CSI  3117,CMSC330
+TuTh ,0203,(Total: 27, Open: 0, Waitlist: 0),12:30pm - 1:45pm,CSI  3117,CMSC330
+Chau-Wen Tseng ,0301,(Total: 27, Open: 0, Waitlist: 0),2:00pm - 3:15pm,CSI  3117,CMSC330
+TuTh ,0301,(Total: 27, Open: 0, Waitlist: 0),2:00pm - 3:15pm,CSI  3117,CMSC330
+Chau-Wen Tseng ,0302,(Total: 27, Open: 0, Waitlist: 0),2:00pm - 3:15pm,CSI  3117,CMSC330
+TuTh ,0302,(Total: 27, Open: 1, Waitlist: 0),2:00pm - 3:15pm,CSI  3117,CMSC330
+Chau-Wen Tseng ,0303,(Total: 27, Open: 1, Waitlist: 0),2:00pm - 3:15pm,CSI  3117,CMSC330
+TuTh ,0303,(Total: 88, Open: 0, Waitlist: 2),2:00pm - 3:15pm,CSI  3117,CMSC330
+Hamid Mahini,0101,(Total: 88, Open: 0, Waitlist: 2),10:00am - 10:50am,CSI  3117,CMSC351
+MWF ,0101,(Total: 88, Open: 0, Waitlist: 4),10:00am - 10:50am,CSI  3117,CMSC351
+Hamid Mahini,0201,(Total: 88, Open: 0, Waitlist: 4),11:00am - 11:50am,CSI  3117,CMSC351
+MWF ,0201,(Total: 88, Open: 0, Waitlist: 0),11:00am - 11:50am,CSI  3117,CMSC351
+Hamid Mahini,0301,(Total: 88, Open: 0, Waitlist: 0),3:00pm - 3:50pm,CSI  2117,CMSC351
+MWF ,0301,(Total: 25, Open: 0, Waitlist: 0),3:00pm - 3:50pm,CSI  2117,CMSC351
+Atif Memon , Neil Spring,0101,(Total: 25, Open: 0, Waitlist: 0),1:00pm - 1:50pm,AVW  4172,CMSC396
+W ,0101,(Total: 45, Open: 0, Waitlist: 3),1:00pm - 1:50pm,AVW  4172,CMSC396
+Michelle Hugue ,0101,(Total: 45, Open: 0, Waitlist: 3),3:30pm - 4:45pm,CSI  1122,CMSC411
+TuTh ,0101,(Total: 45, Open: 0, Waitlist: 3),3:30pm - 4:45pm,CSI  1122,CMSC411
+Michelle Hugue ,0201,(Total: 45, Open: 0, Waitlist: 3),2:00pm - 3:15pm,CSI  1122,CMSC411
+TuTh ,0201,(Total: 25, Open: 0, Waitlist: 4),2:00pm - 3:15pm,CSI  1122,CMSC411
+Neil Spring,0101,(Total: 25, Open: 0, Waitlist: 4),11:00am - 12:15pm,CSI  1122,CMSC412
+TuTh ,0101,(Total: 25, Open: 0, Waitlist: 3),11:00am - 12:15pm,CSI  1122,CMSC412
+Neil Spring,0102,(Total: 25, Open: 0, Waitlist: 3),11:00am - 12:15pm,CSI  1122,CMSC412
+TuTh ,0102,(Total: 40, Open: 0, Waitlist: 6),11:00am - 12:15pm,CSI  1122,CMSC412
+A.U. Shankar ,0101,(Total: 40, Open: 0, Waitlist: 6),12:30pm - 1:45pm,CSI  1122,CMSC414
+TuTh ,0101,(Total: 50, Open: 1, Waitlist: 0),12:30pm - 1:45pm,CSI  1122,CMSC414
+Elaine Shi,0201,(Total: 50, Open: 1, Waitlist: 0),3:30pm - 4:45pm,CSI  1122,CMSC414
+MW ,0201,(Total: 40, Open: 5, Waitlist: 0),3:30pm - 4:45pm,CSI  1122,CMSC414
+Ashok Agrawala ,0101,(Total: 40, Open: 5, Waitlist: 0),11:00am - 12:15pm,CSI  3120,CMSC417
+TuTh ,0101,(Total: 40, Open: 27, Waitlist: 0),11:00am - 12:15pm,CSI  3120,CMSC417
+Instructor: TBA,0201,(Total: 40, Open: 27, Waitlist: 0),3:30pm - 4:45pm,CSI  2107,CMSC417
+TuTh ,0201,(Total: 40, Open: 0, Waitlist: 0),3:30pm - 4:45pm,CSI  2107,CMSC417
+Hanan Samet ,0101,(Total: 40, Open: 0, Waitlist: 0),12:30pm - 1:45pm,CSI  2120,CMSC420
+TuTh ,0101,(Total: 40, Open: 0, Waitlist: 10),12:30pm - 1:45pm,CSI  2120,CMSC420
+Michelle Hugue ,0201,(Total: 40, Open: 0, Waitlist: 10),3:30pm - 4:45pm,CSI  3120,CMSC420
+MW ,0201,(Total: 50, Open: 0, Waitlist: 2),3:30pm - 4:45pm,CSI  3120,CMSC420
+Donald Perlis ,0101,(Total: 50, Open: 0, Waitlist: 2),2:00pm - 3:15pm,CSI  1121,CMSC421
+TuTh ,0101,(Total: 46, Open: 0, Waitlist: 3),2:00pm - 3:15pm,CSI  1121,CMSC421
+Donald Perlis ,0201,(Total: 46, Open: 0, Waitlist: 3),9:30am - 10:45am,CSI  3117,CMSC421
+TuTh ,0201,(Total: 48, Open: 20, Waitlist: 0),9:30am - 10:45am,CSI  3117,CMSC421
+Hector Corrada Bravo,0101,(Total: 48, Open: 20, Waitlist: 0),3:30pm - 4:45pm,CSI  1121,CMSC423
+MW ,0101,(Total: 40, Open: 0, Waitlist: 2),3:30pm - 4:45pm,CSI  1121,CMSC423
+Nicholas Roussopoulos ,0101,(Total: 40, Open: 0, Waitlist: 2),2:00pm - 3:15pm,CSI  3120,CMSC424
+TuTh ,0101,(Total: 40, Open: 7, Waitlist: 0),2:00pm - 3:15pm,CSI  3120,CMSC424
+John Aloimonos,0101,(Total: 40, Open: 7, Waitlist: 0),11:00am - 12:15pm,CSI  2120,CMSC426
+TuTh ,0101,(Total: 40, Open: 2, Waitlist: 0),11:00am - 12:15pm,CSI  2120,CMSC426
+Zia Khan,0101,(Total: 40, Open: 2, Waitlist: 0),2:00pm - 3:15pm,CSI  1121,CMSC427
+MW ,0101,(Total: 40, Open: 1, Waitlist: 0),2:00pm - 3:15pm,CSI  1121,CMSC427
+Jeffrey Foster ,0101,(Total: 40, Open: 1, Waitlist: 0),3:30pm - 4:45pm,CSI  2107,CMSC430
+MW ,0101,(Total: 50, Open: 0, Waitlist: 15),3:30pm - 4:45pm,CSI  2107,CMSC430
+Michael Hicks ,0101,(Total: 50, Open: 0, Waitlist: 15),3:30pm - 4:45pm,CSI  1121,CMSC433
+TuTh ,0101,(Total: 44, Open: 0, Waitlist: 8),3:30pm - 4:45pm,CSI  1121,CMSC433
+Jon Froehlich,0101,(Total: 44, Open: 0, Waitlist: 8),9:30am - 10:45am,CSI  1122,CMSC434
+TuTh ,0101,(Total: 44, Open: 0, Waitlist: 6),9:30am - 10:45am,CSI  1122,CMSC434
+Vibha Sazawal,0201,(Total: 44, Open: 0, Waitlist: 6),11:00am - 12:15pm,CSI  1121,CMSC434
+TuTh ,0201,(Total: 50, Open: 0, Waitlist: 4),11:00am - 12:15pm,CSI  1121,CMSC434
+James Purtilo ,0101,(Total: 50, Open: 0, Waitlist: 4),12:30pm - 1:45pm,CSI  1121,CMSC435
+TuTh ,0101,(Total: 50, Open: 0, Waitlist: 14),12:30pm - 1:45pm,CSI  1121,CMSC435
+Adam Porter ,0101,(Total: 50, Open: 0, Waitlist: 14),9:30am - 10:45am,CSI  1121,CMSC436
+TuTh ,0101,(Total: 60, Open: 0, Waitlist: 11),9:30am - 10:45am,CSI  1121,CMSC436
+Atif Memon ,0201,(Total: 60, Open: 0, Waitlist: 11),12:30pm - 1:45pm,CSI  2117,CMSC436
+TuTh ,0201,(Total: 40, Open: 0, Waitlist: 1),12:30pm - 1:45pm,CSI  2117,CMSC436
+Aravind Srinivasan,0101,(Total: 40, Open: 0, Waitlist: 1),12:30pm - 1:45pm,CSI  3120,CMSC451
+TuTh ,0101,(Total: 32, Open: 11, Waitlist: 0),12:30pm - 1:45pm,CSI  3120,CMSC451
+William Gasarch ,0101,(Total: 32, Open: 11, Waitlist: 0),2:00pm - 3:15pm,CSI  3118,CMSC452
+TuTh ,0101,(Total: 40, Open: 0, Waitlist: 3),2:00pm - 3:15pm,CSI  3118,CMSC452
+Jonathan Katz,0101,(Total: 40, Open: 0, Waitlist: 3),12:00pm - 12:50pm,CSI  1121,CMSC456
+MWF ,0101,(Total: 33, Open: 0, Waitlist: 2),12:00pm - 12:50pm,CSI  1121,CMSC456
+Harland Glaz ,0101,(Total: 33, Open: 0, Waitlist: 2),12:30pm - 1:45pm,MTH  0304,CMSC460
+TuTh ,0101,(Total: 25, Open: 2, Waitlist: 0),12:30pm - 1:45pm,MTH  0304,CMSC460
+Changhui Tan,0201,(Total: 25, Open: 2, Waitlist: 0),2:00pm - 3:15pm,MTH  0409,CMSC460
+TuTh ,0201,(Total: 25, Open: 11, Waitlist: 0),2:00pm - 3:15pm,MTH  0409,CMSC460
+Maria Cameron,0101,(Total: 25, Open: 11, Waitlist: 0),11:00am - 11:50am,MTH  1311,CMSC466
+MWF ,0101,(Total: 40, Open: 9, Waitlist: 0),11:00am - 11:50am,MTH  1311,CMSC466
+Dana Nau ,0101,(Total: 40, Open: 9, Waitlist: 0),3:30pm - 4:45pm,CSI  2120,CMSC474
+TuTh ,0101,(Total: 10, Open: 7, Waitlist: 0),3:30pm - 4:45pm,CSI  2120,CMSC474
+Uzi Vishkin ,0101,(Total: 10, Open: 7, Waitlist: 0),11:00am - 12:15pm,ITV  1100,CMSC498
+MW ,0101,(Total: 40, Open: 8, Waitlist: 0),11:00am - 12:15pm,ITV  1100,CMSC498
+Amol Deshpande,0101,(Total: 40, Open: 8, Waitlist: 0),11:00am - 12:15pm,CSI  2107,CMSC498
+TuTh ,0101,(Total: 10, Open: 0, Waitlist: 4),11:00am - 12:15pm,CSI  2107,CMSC498
+Marshini Chetty ,0101,(Total: 10, Open: 0, Waitlist: 4),6:00pm - 8:45pm,HBK  0123,CMSC498
+Th ,0101,(Total: 20, Open: 3, Waitlist: 0),6:00pm - 8:45pm,HBK  0123,CMSC498
+David Van Horn,0101,(Total: 20, Open: 3, Waitlist: 0),3:30pm - 4:45pm,CSI  3118,CMSC631
+TuTh ,0101,(Total: 25, Open: 0, Waitlist: 3),3:30pm - 4:45pm,CSI  3118,CMSC631
+Ramani Duraiswami,0101,(Total: 25, Open: 0, Waitlist: 3),3:30pm - 4:45pm,CSI  3120,CMSC660
+TuTh ,0101,(Total: 20, Open: 15, Waitlist: 0),3:30pm - 4:45pm,CSI  3120,CMSC660
+Howard Elman,0101,(Total: 20, Open: 15, Waitlist: 0),5:00pm - 6:15pm,CSI  4122,CMSC663
+TuTh ,0101,(Total: 25, Open: 8, Waitlist: 0),5:00pm - 6:15pm,CSI  4122,CMSC663
+Tobias von Petersdorff ,0101,(Total: 25, Open: 8, Waitlist: 0),2:00pm - 3:15pm,CSI  4122,CMSC666
+TuTh ,0101,(Total: 40, Open: 9, Waitlist: 0),2:00pm - 3:15pm,CSI  4122,CMSC666
+Mihai Pop,0101,(Total: 40, Open: 9, Waitlist: 0),9:30am - 10:45am,CSI  3120,CMSC701
+TuTh ,0101,(Total: 20, Open: 0, Waitlist: 0),9:30am - 10:45am,CSI  3120,CMSC701
+A.U. Shankar ,0101,(Total: 20, Open: 0, Waitlist: 0),2:00pm - 3:30pm,AVW  3258,CMSC712
+TuTh ,0101,(Total: 40, Open: 0, Waitlist: 10),2:00pm - 3:30pm,AVW  3258,CMSC712
+Hal Daume,0101,(Total: 40, Open: 0, Waitlist: 10),2:00pm - 3:15pm,CSI  2120,CMSC723
+TuTh ,0101,(Total: 32, Open: 0, Waitlist: 17),2:00pm - 3:15pm,CSI  2120,CMSC723
+David Jacobs ,0101,(Total: 32, Open: 0, Waitlist: 17),11:00am - 12:15pm,CSI  3118,CMSC733
+TuTh ,0101,(Total: 20, Open: 0, Waitlist: 0),11:00am - 12:15pm,CSI  3118,CMSC733
+Atif Memon ,0101,(Total: 20, Open: 0, Waitlist: 0),9:30am - 10:45am,CSI  2118,CMSC737
+TuTh ,0101,(Total: 32, Open: 0, Waitlist: 15),9:30am - 10:45am,CSI  2118,CMSC737
+David Mount ,0101,(Total: 32, Open: 0, Waitlist: 15),12:30pm - 1:45pm,CSI  2118,CMSC754
+TuTh ,0101,(Total: 40, Open: 10, Waitlist: 0),12:30pm - 1:45pm,CSI  2118,CMSC754
+Jeffrey Foster ,0101,(Total: 40, Open: 10, Waitlist: 0),11:00am - 12:50pm,CSI  2117,CMSC798
+F ,0101,(Total: 20, Open: 1, Waitlist: 0),11:00am - 12:50pm,CSI  2117,CMSC798
+Peter Keleher ,0101,(Total: 20, Open: 1, Waitlist: 0),11:00am - 12:15pm,AVW  3258,CMSC818
+TuTh ,0101,(Total: 145, Open: 145, Waitlist: 0),11:00am - 12:15pm,AVW  3258,CMSC818
+Instructor: TBA,0101,(Total: 145, Open: 145, Waitlist: 0),4:00pm - 5:00pm,CSI  1115,CMSC818
+MW ,0101,(Total: 15, Open: 13, Waitlist: 0),4:00pm - 5:00pm,CSI  1115,CMSC818
+Tudor Dumitras,0101,(Total: 15, Open: 13, Waitlist: 0),12:30pm - 1:45pm,JMP  1202,CMSC818
+MW ,0101,(Total: 25, Open: 2, Waitlist: 0),12:30pm - 1:45pm,JMP  1202,CMSC818
+Larry Davis ,0101,(Total: 25, Open: 2, Waitlist: 0),2:00pm - 3:15pm,CSI  2118,CMSC828
+TuTh ,0101,(Total: 25, Open: 12, Waitlist: 0),2:00pm - 3:15pm,CSI  2118,CMSC828
+Venkatramanan Subrahmanian ,0101,(Total: 25, Open: 12, Waitlist: 0),9:30am - 10:45am,CSI  3118,CMSC828
+TuTh ,0101,(Total: 20, Open: 3, Waitlist: 0),9:30am - 10:45am,CSI  3118,CMSC828
+Mohammad Hajiaghayi,0101,(Total: 20, Open: 3, Waitlist: 0),3:30pm - 4:45pm,CSI  2118,CMSC858
+TuTh ,0101,,3:30pm - 4:45pm,CSI  2118,CMSC858
